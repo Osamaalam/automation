@@ -1,3 +1,5 @@
+Updated: 2026-06-30
+
 # SOVEREIGN — AI Chief of Staff Platform
 
 > **Autonomous Operational Intelligence Layer for High-Output Founders & Operators.**
