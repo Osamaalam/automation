@@ -1,4 +1,4 @@
-Updated: 2026-09-06
+Updated: 2026-09-29
 
 # SOVEREIGN — AI Chief of Staff Platform
 
